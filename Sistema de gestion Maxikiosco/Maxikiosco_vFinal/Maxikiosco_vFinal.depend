@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1794184476 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivocategoriasp.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"categoriasp.h"
+	"ArchivoCategoriasP.h"
+
+1794184460 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\categoriasp.h
+	"cadena.h"
+
+1793072794 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\cadena.h
+	<iostream>
+	<cstring>
+
+1794184466 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivocategoriasp.h
+	"categoriasp.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivocompras.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"compras.h"
+	"ArchivoCompras.h"
+
+1794268431 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\compras.h
+	"fechas.h"
+
+1793072794 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\fechas.h
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivocompras.h
+	"compras.h"
+
+1794268400 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivodetallecompras.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detallecompras.h"
+	"ArchivoDetalleCompras.h"
+
+1794268400 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\detallecompras.h
+
+1794268400 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivodetallecompras.h
+	"detallecompras.h"
+
+1794268400 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivodetalleventas.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleventas.h"
+	"ArchivoDetalleVentas.h"
+
+1794268400 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\detalleventas.h
+
+1794268400 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivodetalleventas.h
+	"detalleventas.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoempleados.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"empleados.h"
+	"ArchivoEmpleados.h"
+
+1793072794 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\empleados.h
+	"personas.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\personas.h
+	"cadena.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoempleados.h
+	"empleados.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoproductos.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"productos.h"
+	"ArchivoProductos.h"
+
+1794268441 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\productos.h
+	"cadena.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoproductos.h
+	"productos.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoproveedores.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"proveedores.h"
+	"ArchivoProveedores.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\proveedores.h
+	"personas.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoproveedores.h
+	"proveedores.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoventas.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"ArchivoVentas.h"
+
+1794268431 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\ventas.h
+	"fechas.h"
+
+1793073119 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\archivoventas.h
+	"ventas.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\cadena.cpp
+	<cstdio>
+	<cstdlib>
+	"cadena.h"
+
+1794268460 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\categoriasp.cpp
+	<iostream>
+	<cstring>
+	"categoriasp.h"
+	"ArchivoCategoriasP.h"
+
+1794268431 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\compras.cpp
+	<iostream>
+	<cstring>
+	"compras.h"
+	"cadena.h"
+	"menu.h"
+	"productos.h"
+	"detallecompras.h"
+	"ArchivoProductos.h"
+	"ArchivoProveedores.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCompras.h"
+	"ArchivoDetalleCompras.h"
+
+1794184522 c:\users\usuario\downloads\final v3\maxikiosco_vfinal\menu.h
+	"ArchivoEmpleados.h"
+	"ArchivoProveedores.h"
+	"ArchivoCategoriasP.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+	"ArchivoDetalleVentas.h"
+	"ArchivoCompras.h"
+	"ArchivoDetalleCompras.h"
+
+1794268400 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\detallecompras.cpp
+	<iostream>
+	<cstring>
+	"detallecompras.h"
+	"cadena.h"
+
+1794268400 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\detalleventas.cpp
+	<iostream>
+	<cstring>
+	"detalleventas.h"
+	"cadena.h"
+
+1794268460 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\empleados.cpp
+	<iostream>
+	"empleados.h"
+	"ArchivoEmpleados.h"
+
+1793072794 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\fechas.cpp
+	<iostream>
+	<ctime>
+	"fechas.h"
+
+1794268449 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"menu.h"
+	"ventas.h"
+	"compras.h"
+
+1793073119 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\personas.cpp
+	<iostream>
+	<cstring>
+	"personas.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProveedores.h"
+
+1794268466 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\productos.cpp
+	<iostream>
+	<cstring>
+	"productos.h"
+	"menu.h"
+	"ArchivoCategoriasP.h"
+	"ArchivoProductos.h"
+
+1794268460 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\proveedores.cpp
+	<iostream>
+	<cstring>
+	"proveedores.h"
+	"ArchivoProveedores.h"
+
+1794268435 source:c:\users\usuario\downloads\final v3\maxikiosco_vfinal\ventas.cpp
+	<iostream>
+	<cstring>
+	"ventas.h"
+	"cadena.h"
+	"menu.h"
+	"productos.h"
+	"detalleventas.h"
+	"ArchivoProductos.h"
+	"ArchivoEmpleados.h"
+	"ArchivoVentas.h"
+	"ArchivoDetalleVentas.h"
+
